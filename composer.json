@@ -1,0 +1,17 @@
+{
+    "name": "treino-php/loja-php",
+    "description": "Loja Online em PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Joao Paulo",
+            "email": "e-mail@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        }
+    }
+}
